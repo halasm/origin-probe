@@ -1,0 +1,6 @@
+seed,neutral_undefined_agree_rate,neutral_ambiguous_agree_rate,case1_agree_rate,case2_agree_rate,lift_case1_vs_neutral_undefined,lift_case2_vs_neutral_undefined,lift_case1_vs_neutral_ambiguous,lift_case2_vs_neutral_ambiguous,neutral_undefined_other_rate,neutral_ambiguous_other_rate,case1_other_rate,case2_other_rate,neutral_undefined_format_adherence,neutral_ambiguous_format_adherence,case1_format_adherence,case2_format_adherence
+0,0.0,0.225,1.0,1.0,1.0,1.0,0.775,0.775,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+1,0.0,0.215,1.0,1.0,1.0,1.0,0.785,0.785,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+2,0.0,0.195,1.0,1.0,1.0,1.0,0.8049999999999999,0.8049999999999999,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+42,0.0,0.155,1.0,1.0,1.0,1.0,0.845,0.845,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+123,0.0,0.24,1.0,1.0,1.0,1.0,0.76,0.76,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0

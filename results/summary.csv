@@ -1,0 +1,5 @@
+condition,agree_rate_excl_other,other_rate,format_adherence,lift_vs_neutral_undefined,lift_vs_neutral_ambiguous
+neutral_undefined,0.0,0.0,1.0,0.0,-0.24
+neutral_ambiguous,0.24,0.0,1.0,0.24,0.0
+case1_framed,1.0,0.0,1.0,1.0,0.76
+case2_framed,1.0,0.0,1.0,1.0,0.76

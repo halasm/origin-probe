@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model caches and checkpoints
+.cache/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+models/
+checkpoints/
+
+# HuggingFace cache
+.huggingface/
+transformers_cache/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (keep structure but ignore generated files if needed)
+# Note: We intentionally include results/summary.csv and results/seed_summary.csv
+# Uncomment below if you want to ignore all results files:
+# results/*.csv
+
