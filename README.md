@@ -42,10 +42,6 @@ This experiment was originally run on a GPU cluster. It should run locally with 
 
 The experiment uses deterministic decoding (`do_sample=False`) to ensure reproducibility across runs with the same random seeds.
 
-## Citations
-
-If you use this code or dataset, please cite:
-
 1. **Takemoto K (2024)** The Moral Machine Experiment on Large Language Models. *R. Soc. Open Sci.* **11**, 231393. https://doi.org/10.1098/rsos.231393
 
 2. **Ahmad MSZ and Takemoto K (2025)** Large-Scale Moral Machine Experiment on Large Language Models. *PLoS One*, **20**, e0322776. https://doi.org/10.1371/journal.pone.0322776
